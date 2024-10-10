@@ -34,17 +34,17 @@ At the start of the game, 20 "person" cards are placed in a line. The cards are 
                         Palace Guard                Military             equal to the number of Palace Guards the player collects
                         Palace Guard                Military             equal to the number of Palace Guards the player collects
                         Palace Guard                Military             equal to the number of Palace Guards the player collects
-                        General	                Military	            4
-                        Colonel	                Military	            3
-                        Captain		            Military	            2
-                        Lieutenant	            Military	            1
-                        Lieutenant	            Military	            1
-                        Tragic Figure	        Commoner	            worth -1 point for each Commoner the player collects
-                        Heroic Figure	        Commoner	            -3
-                        Student		            Commoner	            -1
-                        Student	                Commoner		        -1
-                        Student		            Commoner	           	-1
-                        Student		            Commoner	           	-1
+                        General                     Military             4
+                        Colonel                     Military             3
+                        Captain                     Military             2
+                        Lieutenant                  Military             1
+                        Lieutenant                  Military             1
+                        Tragic Figure               Commoner             worth -1 point for each Commoner the player collects
+                        Heroic Figure               Commoner             -3
+                        Student                     Commoner             -1
+                        Student                     Commoner             -1
+                        Student                     Commoner             -1
+                        Student                     Commoner             -1
 
 A player can then choose to do one or more of the following actions, but each action other than selecting a person card can only be taken once per game. The player's turn ends when they either select the front person from the line or they choose the "Skip Turn" action.
 
