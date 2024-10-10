@@ -25,15 +25,15 @@ At the start of the game, 20 "person" cards are placed in a line. The cards are 
                         Mayor                       Civic                3
                         Councilman                  Civic                3
                         Judge                       Civic                2
-                        Judge	                Civic	                2
-                        Tax Collector	        Civic	                equal to the number of Civic persons the player collects
-                        Sheriff	                Civic	                1
-                        Sheriff	                Civic	                1
-                        Palace Guard	        Military	            equal to the number of Palace Guards the player collects
-                        Palace Guard	        Military	            equal to the number of Palace Guards the player collects
-                        Palace Guard	        Military	            equal to the number of Palace Guards the player collects
-                        Palace Guard	        Military	            equal to the number of Palace Guards the player collects
-                        Palace Guard	        Military	            equal to the number of Palace Guards the player collects
+                        Judge                       Civic                2
+                        Tax Collector               Civic                equal to the number of Civic persons the player collects
+                        Sheriff                     Civic                1
+                        Sheriff                     Civic                1
+                        Palace Guard                Military             equal to the number of Palace Guards the player collects
+                        Palace Guard                Military             equal to the number of Palace Guards the player collects
+                        Palace Guard                Military             equal to the number of Palace Guards the player collects
+                        Palace Guard                Military             equal to the number of Palace Guards the player collects
+                        Palace Guard                Military             equal to the number of Palace Guards the player collects
                         General	                Military	            4
                         Colonel	                Military	            3
                         Captain		            Military	            2
