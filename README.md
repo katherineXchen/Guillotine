@@ -7,8 +7,8 @@ At the start of the game, 20 "person" cards are placed in a line. The cards are 
                         Name                        Group              Points
                         King Louis XIV              Royal                5
                         Marie Antoinette            Royal                5
-                        Regent		        Royal		        4
-                        Duke		        Royal	                3
+                        Regent                      Royal                4
+                        Duke                        Royal                3
                         Baron	                Royal	                3
                         Count	                Royal	                2 (4 if the player also collects the Countess)
                         Countess	                Royal	                2 (4 if the player also collects the Count)
