@@ -15,16 +15,16 @@ At the start of the game, 20 "person" cards are placed in a line. The cards are 
                         Lord                        Royal                2 (4 if the player also collects the Lady)
                         Lady                        Royal                2 (4 if the player also collects the Lord)
                         Cardinal                    Church               5
-                        Archbishop	                Church	            4
-                        Nun	                        Church	            3
-                        Bishop	                    Church	            2
-                        Priest	                Church	                1
-                        Priest	                Church	                1
-                        Heretic	                Church	                equal to the number of Church members the player collects
-                        Governor	            Civic	                4
-                        Mayor	                Civic	                3
-                        Councilman	            Civic	                3
-                        Judge	                Civic	                2
+                        Archbishop                  Church               4
+                        Nun                         Church               3
+                        Bishop                      Church               2
+                        Priest                      Church               1
+                        Priest                      Church               1
+                        Heretic                     Church               equal to the number of Church members the player collects
+                        Governor                    Civic                4
+                        Mayor                       Civic                3
+                        Councilman                  Civic                3
+                        Judge                       Civic                2
                         Judge	                Civic	                2
                         Tax Collector	        Civic	                equal to the number of Civic persons the player collects
                         Sheriff	                Civic	                1
