@@ -10,11 +10,11 @@ At the start of the game, 20 "person" cards are placed in a line. The cards are 
                         Regent                      Royal                4
                         Duke                        Royal                3
                         Baron                       Royal                3
-                        Count	                Royal	                2 (4 if the player also collects the Countess)
-                        Countess	                Royal	                2 (4 if the player also collects the Count)
-                        Lord	                Royal	                2 (4 if the player also collects the Lady)
-                        Lady	                Royal	                2 (4 if the player also collects the Lord)
-                        Cardinal	                Church	                5
+                        Count                       Royal                2 (4 if the player also collects the Countess)
+                        Countess                    Royal                2 (4 if the player also collects the Count)
+                        Lord                        Royal                2 (4 if the player also collects the Lady)
+                        Lady                        Royal                2 (4 if the player also collects the Lord)
+                        Cardinal                    Church               5
                         Archbishop	                Church	            4
                         Nun	                        Church	            3
                         Bishop	                    Church	            2
