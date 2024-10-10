@@ -5,8 +5,8 @@ This Guillotine game is for two players. The game consists of a large set of car
 At the start of the game, 20 "person" cards are placed in a line. The cards are selected and ordered randomly from the following cards:
 
                         Name	                Group	              Points
-                        King Louis XIV	        Royal	                5
-                        Marie Antoinette	        Royal		        5
+                        King Louis XIV      Royal	                5
+                        Marie Antoinette      Royal		        5
                         Regent		        Royal		        4
                         Duke		        Royal	                3
                         Baron	                Royal	                3
